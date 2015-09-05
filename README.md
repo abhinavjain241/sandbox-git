@@ -1,7 +1,22 @@
-This is a place to practice git. Your first exercise is to add your name to this list.  
-To do so first go through the [curated list of git resource](https://help.github.com/articles/good-resources-for-learning-git-and-github/) provided by github and learn to use git. 
-Then fork the respository, create a new branch and add your name and send a pull request.  
-Your entry should maintain the alphabetic order and it should be in the format ```your name <email-id>```
+This is a place to practice git. Your first exercise is to add your name to this list.
 
-Abhinav Jain abhinavjain241@gmail.com
-Soumyadeep Mukherjee soumyadeep9@gmail.com
+- **Learn to use git**:
+  - Go through the try git tutorial at https://try.github.io/levels/1/challenges/1
+  - Read the first two chapters of the book [Pro Git](http://git-scm.com/book/en/v2)
+
+  To do so first go through the [curated list of git resource](https://help.github.com/articles/good-resources-for-learning-git-and-github/) provided by github and learn to use git.
+
+- **Fork the respository, create a new branch, make changes and send a pull request**
+  - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are, and how to use them.
+
+
+Your entry should maintain the alphabetic order and it should be in the format:
+
+`* your name [username](http://github.com/username)`.
+
+This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
+
+Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
+
+* Abhinav Jain [abhinavjain241](http://github.com/abhinavjain241)
+* Soumyadeep Mukherjee [sam17](https://github.com/sam17)
