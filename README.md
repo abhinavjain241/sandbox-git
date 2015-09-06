@@ -21,3 +21,5 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Abhinav Jain [abhinavjain241](http://github.com/abhinavjain241)
 * Kumar Krishna Agrawal [kumarkrishna](https://github.com/kumarkrishna)
 * Soumyadeep Mukherjee [sam17](https://github.com/sam17)
+* Aman Kumar Singh [mnottheone](https://github.com/mnottheone)
+* Davik Swarup [daivikswarup](https://github.com/daivikswarup)
