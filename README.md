@@ -19,8 +19,8 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 * Abhinav Jain [abhinavjain241](http://github.com/abhinavjain241)
+* Aman Kumar Singh [mnottheone](https://github.com/mnottheone)
+* Ayush Pandey [ayush9pandey](https://github.com/ayush9pandey)
+* Daivik Swarup [daivikswarup](https://github.com/daivikswarup)
 * Kumar Krishna Agrawal [kumarkrishna](https://github.com/kumarkrishna)
 * Soumyadeep Mukherjee [sam17](https://github.com/sam17)
-* Aman Kumar Singh [mnottheone](https://github.com/mnottheone)
-* Davik Swarup [daivikswarup](https://github.com/daivikswarup)
-* Ayush Pandey [ayush9pandey](http://github.com/ayush9pandey)
