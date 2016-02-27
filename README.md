@@ -26,3 +26,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Pranit Bauva [pranitbauva1997](https://github.com/pranitbauva)
 * Soumyadeep Mukherjee [sam17](https://github.com/sam17)
 * Subham Sekhar Sahoo [noizzy3](https://github.com/noizzy3)
+* Rishabh Madan [madan96](https://github.com/madan96)
