@@ -25,6 +25,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Kumar Krishna Agrawal [kumarkrishna](https://github.com/kumarkrishna)
 * Pranit Bauva [pranitbauva1997](https://github.com/pranitbauva)
 * Rishabh Madan [madan96](https://github.com/madan96)
+* Rohan Khameshra [Rohankhameshra](https://github.com/Rohankhameshra)
 * Shivang Agrawal [shivangag](https://github.com/shivangag)
 * Sohom Chakraborty [quicksilverTrx](https://github.com/quicksilverTrx)
 * Soumyadeep Mukherjee [sam17](https://github.com/sam17)
